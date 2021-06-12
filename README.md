@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jonathan Ortega
+- 👀 I’m interested in development
+- 🌱 I’m currently learning DevOps
